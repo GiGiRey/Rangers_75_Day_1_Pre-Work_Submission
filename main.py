@@ -36,3 +36,4 @@ def is_consecutive(a_list):
 is_consecutive([1,2,3,4,5,7])
 is_consecutive([1,2,3,4,5,6])
 is_consecutive([300,424])
+is_consecutive([301,424])
